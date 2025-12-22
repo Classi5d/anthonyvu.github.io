@@ -1,11 +1,11 @@
 # Mini Maker Mill
 
 ## Objective
-Design and develop a hybrid manufacturing system capable of CNC milling and 3D printing using a dual-head machine on a single axis.
+Design and develop a hybrid manufacturing system capable of CNC milling and 3D printing using a dual-head machine on a single axis. Provide users with a compact and affordable fabrication solution by combining additive and subtractive manufacturing processes in one platform.
 
 ## Outcomes & Contributions
-- Designed the dual-head assembly in SolidWorks integrating a CNC spindle and a 3D printer hotend
-- Contributed to machine frame and axis layout
+- Designed the dual-head assembly using SolidWorks, incorporating a CNC spindle and a 3D printer hotend
+- Contributed to machine frame and axis system
 - Conducted SolidWorks FEA to validate 3D printed parts
 - Supported subsystem integration and testing
 
