@@ -19,8 +19,5 @@ Design and develop a hybrid manufacturing system capable of CNC milling and 3D p
 Demonstrated rotational switching between heads and basic motion control while meeting footprint and strength constraints.
 
 ## Media
-Add images here when ready:
-- CAD assembly
-- Electrical schematic
-- Physical assembly
+
 
