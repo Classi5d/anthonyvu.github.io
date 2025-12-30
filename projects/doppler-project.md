@@ -1,3 +1,7 @@
+[Home](/) | [About](/about.md) | [Projects](/projects.md) 
+
+---
+
 # Doppler Project
 
 ## Objective
