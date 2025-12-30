@@ -1,3 +1,7 @@
+[Home](/) |[About](/about.md) | [Projects](/projects.md) 
+
+---
+
 # Bolt Cutter Reverse Engineering
 
 ## Objective
