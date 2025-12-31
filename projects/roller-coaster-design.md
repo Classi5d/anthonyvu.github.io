@@ -29,5 +29,5 @@ Delivered a comprehensive engineering plan for a 1.75-minute ride spanning 1156.
 
 |            |Acceleration Safety Charts |             |
 |--------------|-------------------|-------------------|
-|![Acceleration Safety Chart](../assets/images/case1-1.png) | ![Acceleration Safety Chart](../assets/images/case1-2.png) | ![Acceleration Safety Chart](../assets/images/case1-3.png) | 
+|![Acceleration Safety Chart](../assets/images/case1-3.png) | ![Acceleration Safety Chart](../assets/images/case1-2.png) | ![Acceleration Safety Chart](../assets/images/case1-1.png) | 
 
