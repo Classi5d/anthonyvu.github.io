@@ -27,5 +27,5 @@ The final assembly achieved structural integrity and ergonomic balance through i
 | ![Seat Pan & Spring Hinge Assembly](../assets/images/MiniChopper3A.png) | ![Battery Housing 3D Model](../assets/images/MiniChopper2.png) |
 
 | Physical Assembly |
-|-------------------|
-![Mini Chopper](../assets/images/MiniChopper1.png)
+|---|
+| ![Mini Chopper](../assets/images/MiniChopper1.png) |
