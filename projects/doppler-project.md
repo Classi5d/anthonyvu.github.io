@@ -29,5 +29,5 @@ The demonstration effectively showcased the real-world application of the Dopple
 | ![Doppler 3D Model](../assets/images/Doppler2.png) | ![Doppler 3D Model](../assets/images/Doppler1.png) |
 
 | Physical Assembly |
-|-------------------|
-![Doppler 3D Model](../assets/images/DopplerProject1.png)
+|---|
+| ![Doppler 3D Model](../assets/images/DopplerProject1.png) |
