@@ -24,8 +24,8 @@ Created a simple reference guide with their commonly used materials. For instanc
 
 ## Media
 | CAD Model Assembly |
-|--------------------|
-![V6 Engine Assembly](../assets/images/V6_3.png) 
+|---|
+| ![V6 Engine Assembly](../assets/images/V6_3.png) |
 
 | CAD Model of Piston Mechanism Assembly | CAD Model of Cam Shafts & Valves |
 |----------------------------------------|----------------------------------|
