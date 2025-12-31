@@ -24,4 +24,5 @@ Conduct a lab experiment to demonstrate and analyze the Doppler Effect using con
 The demonstration effectively showcased the real-world application of the Doppler Effect and was well-received by peers and instructors. The slide deck supported the live demonstration with visuals and theoretical background, reinforcing comprehension of the phenomenon.
 
 ## Media
-
+![Doppler 3D Model](../assets/images/Doppler2.png) ![Doppler 3D Model](../assets/images/Doppler1.png)
+3D Model Rev A 3D Model Rev B
