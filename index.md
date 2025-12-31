@@ -13,4 +13,4 @@ I’m a Mechanical Engineering graduate from Cal Poly Pomona with a passion for 
 ## Quick Links
 - [Projects](projects.md)
 - [About](about.md)
-- [Download PDF Portfolio](assets/pdf/Anthony_Vu_Portfolio.pdf)
+- [Download PDF Portfolio](assets/pdf/Engineering Portfolio-compressed.pdf)
